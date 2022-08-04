@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d9d597df-b473-4efa-ac49-30bea9978ac6/microsoft.web/sites/subscriptions/d9d597df-b473-4efa-ac49-30bea9978ac6/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/wa-test-2",
+    "appService.deploySubpath": "."
+}
